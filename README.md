@@ -1,16 +1,16 @@
-## Hi there 👋
+Software Engineer with 5+ years in full-stack development, building and deploying scalable web applications.
 
-<!--
-**Timi-Jegede/Timi-Jegede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Stacks
+Frontend
+  TypeScript
+  ReactJs
+  
+Backend
+  Python
+  Django
+  NodeJS
+  ExpressJS
 
-Here are some ideas to get you started:
+LinkedIn - https://www.linkedin.com/in/timi-jegede-40b242138/
+Email - osjegede@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
