@@ -16,12 +16,8 @@ An experienced **Software Engineer** with over 5 years of experience in full-sta
 ---
 
 ### 📫 Connect with Me
-
-*   **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Replace with your actual link)*
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/timi-jegede-40b242138/)
 *   **Email:** [osjegede@gmail.com](mailto:osjegede@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
-
-![Timi's GitHub Stats](https://vercel.app)
